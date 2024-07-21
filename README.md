@@ -17,4 +17,8 @@ Simple cli web scraper to get latest update of specific manga titles without hav
 {'mangaName': 'Title Four', 'mangaChapter': 'Chapter 83', 'last_updated': '4 days ago'}
 {'mangaName': 'Title Five', 'mangaChapter': 'Chapter 34', 'last_updated': '4 days ago'}
 ```
+**Install requirements**
+```
+pip install -r requirements.txt
+```
 
