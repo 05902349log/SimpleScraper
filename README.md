@@ -5,7 +5,7 @@ Simple cli web scraper to get latest update of specific manga titles without hav
 **Sample JSON file format for storing manga titles**
 ```
 {
-  "Titles": ['Title one', 'Title Two','Title Three','Title Four', 'Title Five', 'Title Six', 'Title Seven']
+  "Titles": ['Title one', 'Title Two','Title Three', ...]
 }
 ```
 
