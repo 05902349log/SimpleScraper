@@ -34,8 +34,8 @@ def main():
 
         if mangaObj["mangaName"] in d["Titles"]:
             latestUpdatedList.append(mangaObj)
-            print(mangaObj)
-
+            print(f"Manga name: {mangaObj["mangaName"]}")
+            print(f"Last updated: {mangaObj["last_updated"]}\n")
 
 # Press the green button in the gutter to run the script.
 if __name__ == "__main__":
